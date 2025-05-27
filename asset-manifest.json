@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/E-commerce-ReactJs/static/css/main.e2adbc2d.css",
+    "main.js": "/E-commerce-ReactJs/static/js/main.20ad487d.js",
+    "static/js/453.0297a6b4.chunk.js": "/E-commerce-ReactJs/static/js/453.0297a6b4.chunk.js",
+    "static/media/fa-solid-900.ttf": "/E-commerce-ReactJs/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/E-commerce-ReactJs/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/E-commerce-ReactJs/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/E-commerce-ReactJs/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/E-commerce-ReactJs/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/E-commerce-ReactJs/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/E-commerce-ReactJs/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/E-commerce-ReactJs/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/E-commerce-ReactJs/index.html",
+    "main.e2adbc2d.css.map": "/E-commerce-ReactJs/static/css/main.e2adbc2d.css.map",
+    "main.20ad487d.js.map": "/E-commerce-ReactJs/static/js/main.20ad487d.js.map",
+    "453.0297a6b4.chunk.js.map": "/E-commerce-ReactJs/static/js/453.0297a6b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2adbc2d.css",
+    "static/js/main.20ad487d.js"
+  ]
+}
